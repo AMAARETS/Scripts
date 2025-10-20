@@ -20,6 +20,7 @@
         /* הסתרת אלמנטים לא רצויים */
         mv-ad-wrapper.additional-ad-banner,
         mv-qr-code-banner,
+        mv-mot-banner,
         .heading-navbar {
             display: none !important;
         }
