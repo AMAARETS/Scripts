@@ -5,6 +5,7 @@
 // @description  מסתיר אלמנטים מיותרים, מקטין את הכותרת ומסדר את הטאבים באתר Moovit באופן אוטומטי.
 // @author       Generated AI
 // @match        *://moovitapp.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=moovitapp.com
 // @grant        none
 // @run-at       document-start
 // @updateURL    https://raw.githubusercontent.com/AMAARETS/Scripts/main/moovit-cleaner.user.js
